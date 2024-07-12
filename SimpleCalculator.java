@@ -5,7 +5,7 @@ public class SimpleCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Welcome to Simple Calculator");
+        System.out.println("Welcome to Simple Calculator Ok");
 
         System.out.println("Enter two numbers:");
 
