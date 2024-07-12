@@ -7,6 +7,8 @@ public class SimpleCalculator {
 
         System.out.println("Welcome to Simple Calculator Ok");
 
+        System.out.println("This program it is designed to help you understand the usage of a calculator.");
+
         System.out.println("Enter two numbers:");
 
         //Input first number
